@@ -3,7 +3,6 @@
  * Celsius, Calvin , Fahrenheit.
  *
  * @Gil Meshulami
- * @01/11/2020
  */
 
 import java.util.Scanner;
