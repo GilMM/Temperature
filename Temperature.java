@@ -37,17 +37,6 @@ public class Temperature
         double f = Fconst1 * (temp - Kconst) + Fconst3;
         double k = temp;
         System.out.println("c " + c + " f " + f + " k" + k );
-    }    
-        
-        
-    
- 
-    
-    
-    
-    
-    
-    
-    
-    }
+    }     
+  }
 }
